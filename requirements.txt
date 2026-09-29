@@ -1,0 +1,6 @@
+numpy
+astropy
+opencv-python
+scikit-image
+scipy
+matplotlib
